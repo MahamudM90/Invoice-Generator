@@ -38,5 +38,5 @@ npm start / npm run build
 
 ### Live Demo 
 
- ###    [Live Site] [https://invoice-generator-react.netlify.app/]
+ ###    [Live Site] (https://invoice-generator-react.netlify.app/)
 
