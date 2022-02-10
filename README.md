@@ -37,4 +37,4 @@ npm start / npm run build
 - [ ] Store invoices in Firebase DB
 
 
- ###    [Live Site]( invoice-generator-react.netlify.app/ ) 
+ ###    [Live Site](https://invoice-generator-react.netlify.app/) 
