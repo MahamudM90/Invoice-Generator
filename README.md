@@ -8,13 +8,19 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 ![ScreenShot of Form](screenshots/a.png)
 
+
+
 ##### UserProfile
 
 ![ScreenShot of Form](screenshots/b.png)
 
-##### Download Copy
+
+
+##### Review
 
 ![ScreenShot of Form](screenshots/c.png)
+
+
 
 ##### Download Copy
 
