@@ -14,11 +14,11 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 ##### Download Copy
 
-![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshots/c.png)
 
 ##### Download Copy
 
-![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshots/d.png)
 
 
 ### Installation
