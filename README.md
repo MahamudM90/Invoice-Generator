@@ -16,7 +16,7 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 
 
-##### Review I
+##### Review In
 
 ![ScreenShot of Form](screenshots/c.png)
 
