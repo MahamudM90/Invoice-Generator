@@ -38,7 +38,7 @@ npm start / npm run build
 ```
 
 ### To-Do
-- [x] Finish parsing data into Preview Modal
+- [x] Finish parsing data into Preview Modal.
 
 - [x] Currency Picker.
 
