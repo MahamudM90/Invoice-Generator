@@ -40,7 +40,7 @@ npm start / npm run build
 ### To-Do
 - [x] Finish parsing data into Preview Modal
 
-- [x] Currency Picker
+- [x] Currency Picker.
 
 - [x] Calculate Tax & Discounts.
 
