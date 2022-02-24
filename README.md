@@ -10,7 +10,7 @@ An Invoice Creator project that built with React. Add itemized items, configure 
 
 
 
-##### UserProfile
+##### User Profile
 
 ![ScreenShot of Form](screenshots/b.png)
 
@@ -37,7 +37,7 @@ npm install
 npm start / npm run build
 ```
 
-### To-Do
+### To - Do
 - [x] Finish parsing data into Preview Modal.
 
 - [x] Currency Picker.
