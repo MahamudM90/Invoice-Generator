@@ -4,7 +4,7 @@ An Invoice Creator Project that is Built with React. Add itemized items, configu
 
 
 
-##### HomePage
+##### Home Page
 
 ![ScreenShot of Form](screenshots/a.png)
 
