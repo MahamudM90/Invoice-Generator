@@ -27,11 +27,12 @@ An Invoice Creator Project that is Built with React. Add itemized items, configu
 ![ScreenShot of Form](screenshots/d.png)
 
 ### Tools
-React
-Tailwind CSS
-Headless UI
-Html-to-image
-jsPDF
+
+- React
+- Tailwind CSS
+- Headless UI
+- Html-to-image
+- jsPDF
 
 
 ### Installation
