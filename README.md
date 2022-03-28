@@ -1,6 +1,6 @@
 # Invoice Of Generator🧾
 
-An Invoice Creator Project That Is Built With React. Add Itemized Items, Configure quantity, Prices, Tax Rates and Discounts & Download Invoice As PDFs to your Device. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to Capture the data from the Modal & Convert It from Canvas -> PDF.
+An Invoice Creator Project That Is Built With React. Add Itemized Items, Configure Quantity, Prices, Tax Rates and Discounts & Download Invoice As PDFs to your Device. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to Capture the data from the Modal & Convert It from Canvas -> PDF.
 
 
 
