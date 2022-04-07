@@ -52,7 +52,7 @@ npm start / npm run build
 
 - [x] Calculate Tax & Discounts.
 
-- [x] Store invoices In Firebase DB.
+- [x] Store Invoices In Firebase DB.
 
 
  ###    [Live Site](https://invoice-generator-react.netlify.app/) 
