@@ -38,7 +38,7 @@ An Invoice Creator Project That Is Built With React. Add Itemized Items, Configu
 ### Installation
 
 ```
-git clone https://github.com/MahamudM90/INVOICE-GENERATOR
+git Clone https://github.com/MahamudM90/INVOICE-GENERATOR
 
 npm install
 
