@@ -32,7 +32,7 @@ An Invoice Creator Project That Is Built With React JS. Add Itemized Items, Conf
 - Tailwind CSS
 - Headless UI
 - Html-to-Image
-- JS PDF
+- JS PDFS
 
 
 ### Installation
