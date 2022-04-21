@@ -26,7 +26,7 @@ An Invoice Creator Project That Is Built With React JS. Add Itemized Items, Conf
 
 ![ScreenShot of Form](screenshots/d.png)
 
-### Tools
+### Tool's
 
 - React
 - Tailwind CSS
