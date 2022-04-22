@@ -22,7 +22,7 @@ An Invoice Creator Project That Is Built With React JS. Add Itemized Items, Conf
 
 
 
-##### Download Copy
+##### Download COPY
 
 ![ScreenShot of Form](screenshots/d.png)
 
