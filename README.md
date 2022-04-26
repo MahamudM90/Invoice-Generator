@@ -28,7 +28,7 @@ An Invoice Creator Project That Is Built By React JS. Add Itemized Items, Config
 
 ### Tool's
 
-- React
+- React Js
 - Tailwind CSS
 - Headless UI
 - Html-to-Image
