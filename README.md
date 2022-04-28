@@ -16,7 +16,7 @@ An Invoice Creator Project That Is Built By React JS. Add Itemized Items, Config
 
 
 
-##### Review INVOICE
+##### REVIEW INVOICE
 
 ![ScreenShot of Form](screenshots/c.png)
 
