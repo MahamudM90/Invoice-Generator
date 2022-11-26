@@ -50,7 +50,7 @@ npm start / npm run build
 
 - [x] Currency Picker.
 
-- [x] Calculate Tax & Discounts.
+- [x] Calculate Tax & Discount.
 
 - [x] Store Invoices In Firebase DB .
 
